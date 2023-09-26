@@ -1,2 +1,6 @@
 # Unreal_Melee
-Melee Game using UE5
+Melee & Shooter Game using UE5
+Weapons:
+Sword
+Pistol
+Unarmed
